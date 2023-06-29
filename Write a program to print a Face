@@ -1,0 +1,12 @@
+//Task 5: Write a program to print a Face
+
+public class Problem5 {
+    public static void main(String[] args) {
+        System.out.println(" +\"\"\"\"\"+ ");
+        System.out.println("[| o o |]");
+        System.out.println(" |  ^  | ");
+        System.out.println(" | '-' | ");
+        System.out.println(" +-----+ ");
+    }
+
+}
